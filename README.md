@@ -26,7 +26,7 @@ A powerful mesh importing solution for Unreal Engine that uses the Open Asset Im
 ## Getting Started
 
 ### Installation
-For detailed usage examples and implementation guides, visit our [documentation](https://github.com/902D9/AssimpForUnreal/wiki).
+For detailed usage examples and implementation guides, visit our [documentation](https://github.com/Unity-Billal-mesloub/UE4_Assimp/wiki).
 
 ## Mesh Type Comparison
 
@@ -40,11 +40,11 @@ For detailed usage examples and implementation guides, visit our [documentation]
 
 ### Dynamic Mesh Support
 Available in UE 5.0+, Dynamic Meshes offer significant performance improvements over both Static and Procedural Meshes.
-- [Dynamic Mesh Documentation](https://github.com/902D9/AssimpForUnreal/wiki/Dynamic-Mesh)
+- [Dynamic Mesh Documentation](https://github.com/Unity-Billal-mesloub/UE4_Assimp/wiki/Dynamic-Mesh)
 
 ### Asynchronous Importing
 Use `AssimpImporter` for non-blocking, asynchronous imports:
-- [Async Import Documentation](https://github.com/902D9/AssimpForUnreal/wiki/Assimp-Importer-(Async))
+- [Async Import Documentation](https://github.com/Unity-Billal-mesloub/UE4_Assimp/wiki/Assimp-Importer-(Async))
 
 
 
@@ -58,5 +58,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
-- [Assimp](https://github.com/assimp/assimp) - Open Asset Import Library
+- [Assimp](https://github.com/Unity-Billal-mesloub/assimp) - Open Asset Import Library
 - All the contributors who have helped make this plugin better
